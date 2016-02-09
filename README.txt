@@ -1,0 +1,1 @@
+Git was introduced in week 5 of code school.  I have earlier attempts at using it, but the results are were messy and haphazard.  Thus, the early versions in here are mostly in completed form and don’t show the early versions.
